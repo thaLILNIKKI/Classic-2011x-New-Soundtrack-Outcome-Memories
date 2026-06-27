@@ -1,6 +1,9 @@
 # Classic 2011x New Soundtrack - Outcome Memories
 - Rage: https://www.youtube.com/watch?v=EJNpSRsphMM
 - Chase: https://www.youtube.com/watch?v=AMrbeevdRGU
+```json
+RUN BEFORE ROUND STARTS!
+```
 ```lua
 loadstring(game:HttpGet(
   "https://raw.githubusercontent.com/"
